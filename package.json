@@ -14,7 +14,10 @@
     "Exif",
     "Image"
   ],
-  "author": "Ben Leslie","Zacknero"
+  "author": "Ben Leslie",
+  "contributors": [
+    "Zacknero"
+  ],
   "license": "BSD",
   "dependencies": {
     
